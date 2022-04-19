@@ -46,7 +46,11 @@ Classmates
 
 start the app and enjoy it
 
-// ![app icon](https://github.com/David-Gonzalez-Revature/FeedBack-Team-D-1/blob/main/docs/Screen%20Shot%202022-03-30%20at%2010.55.01%20AM.png)
+![app icon](https://github.com/David-Gonzalez-Revature/StoreDAYS/blob/main/docs/Screen%20Shot%202022-04-19%20at%2010.59.50%20AM.png)
+
+![app icon](https://github.com/David-Gonzalez-Revature/StoreDAYS/blob/main/docs/Screen%20Shot%202022-04-19%20at%2010.59.42%20AM.png)
+
+![app icon](https://github.com/David-Gonzalez-Revature/StoreDAYS/blob/main/docs/Screen%20Shot%202022-04-19%20at%2010.59.55%20AM.png)
 
 
 
